@@ -1,5 +1,7 @@
 # Component for [React](https://reactjs.org/).
 
+Check it
+
 You can use 1500 digitized musical instruments and percussions from free sound library to build musical application with React framework.
 
 ## Examples
